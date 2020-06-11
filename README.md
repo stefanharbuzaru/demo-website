@@ -4,4 +4,4 @@ eCommerce Website With PHP & Bootstrap
 !!! Database Items are not Showing up on Webpage !!!
 
 
-database file: mymagwp.sql user: root pass: ''
+database file: mymag.sql user: root pass: ''
